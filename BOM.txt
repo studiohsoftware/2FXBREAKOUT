@@ -4,5 +4,5 @@
 Cable: https://www.digikey.com/en/products/detail/tensility-international-corp/30-00938/10288683
 2xSend Jacks: https://www.digikey.com/en/products/detail/switchcraft-inc/11/109515
 2xReturn Jacks: https://www.digikey.com/en/products/detail/switchcraft-inc/C12AX/109530 (check Mouser too)
-2xHex Standoffs: https://www.mcmaster.com/93505A431/
+2xHex Standoffs: https://www.mcmaster.com/93505A431/ (or Mouser part #761-4532-440-AL-7)
 1xPCB: https://oshpark.com/shared_projects/tC5rEjbd
