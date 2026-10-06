@@ -1,6 +1,6 @@
 1xTerminal Block: https://www.digikey.com/en/products/detail/phoenix-contact/1729199/260622
 1xSocket: https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/5103309-1/1114898
-Pins: https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/61304011121/4846884
+1xConnector: https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/5-534998-5/1093026
 Cable: https://www.digikey.com/en/products/detail/tensility-international-corp/30-00938/10288683
 2xSend Jacks: https://www.digikey.com/en/products/detail/switchcraft-inc/11/109515
 2xReturn Jacks: https://www.digikey.com/en/products/detail/switchcraft-inc/C12AX/109530 (check Mouser too)
